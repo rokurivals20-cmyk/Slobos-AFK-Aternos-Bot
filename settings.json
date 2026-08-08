@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "player",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "TechnoBlade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "rokurival.aternos.me",
+    "port": 32382,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1535535773670047804/_219FhN8YWgkYvjmUzKCKukm5C04OilL2osN9Z-NbcXF3qVJpql2WHtKY8r3ANSnA7oa",
     "events": {
       "connect": true,
       "disconnect": true,
